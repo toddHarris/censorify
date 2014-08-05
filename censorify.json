@@ -1,0 +1,19 @@
+{
+    "author":  "Todd Harris",
+    "name": "censorify",
+    "version":  "0.0.1",
+    "description":  "Censors words",
+    "main":  "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huntygonecharllie/censorify"
+       },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node":  "*"
+   }
+}
